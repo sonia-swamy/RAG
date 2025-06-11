@@ -8,6 +8,7 @@ This program implements a basic RAG framework. The key components involved inclu
 The text file being used is Alice in Wonderland (can be changed) and the RAG framework enables meanings and information to be retrieved from it.
 
 Sample Output:
+
 query = "How many times is Alice mentioned in the story?"
 
 Answer:  Alice is mentioned three times in the given context.
