@@ -14,4 +14,5 @@ query = "How many times is Alice mentioned in the story?"
 Answer:  Alice is mentioned three times in the given context.
 
 References and Acknowledgments:
+
 https://medium.com/@anil.goyal0057/building-a-simple-rag-system-with-langchain-faiss-and-ollama-mistral-model-822b3245e576
