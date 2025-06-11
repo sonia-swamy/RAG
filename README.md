@@ -4,6 +4,7 @@ This program implements a basic RAG framework. The key components involved inclu
 3) the RAG agent (what is being delivered)
 4) the several modules underneath the RAG agent including Langchain, FAISS, Ollama
 5) Llama (the LLM)
+
 The text file being used is Alice in Wonderland (can be changed) and the RAG framework enables meanings and information to be retrieved from it.
 
 Sample Output:
