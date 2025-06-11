@@ -9,6 +9,7 @@ The text file being used is Alice in Wonderland (can be changed) and the RAG fra
 
 Sample Output:
 query = "How many times is Alice mentioned in the story?"
+
 Answer:  Alice is mentioned three times in the given context.
 
 References and Acknowledgments:
